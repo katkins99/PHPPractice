@@ -1,0 +1,16 @@
+.animals {
+    border: 10px ridge #f00;
+    background-color: #ff00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.animals img {
+    width: 10%;
+}
+
+.animals p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}
